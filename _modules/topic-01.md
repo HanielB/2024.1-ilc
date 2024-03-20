@@ -15,3 +15,10 @@ title: Tópico 01 - Lógica proposicional
 13 Mar
 : [**Lógica proposicional (Parte 2)**]({{ site.baseurl }}{% link _lessons/01-prop-logic/prop-logic.md %})
   : [Slides]({{ site.baseurl }}{% link _lessons/01-prop-logic/02-prop-logic-apps_equiv.pdf %})
+
+18 Mar
+: [**Lógica proposicional (Parte 3)**]({{ site.baseurl }}{% link _lessons/01-prop-logic/prop-logic.md %})
+  : [Slides]({{ site.baseurl }}{% link _lessons/01-prop-logic/03-prop-logic-sat.pdf %})
+
+20 Mar
+: [**Resolução via SAT**]({{ site.baseurl }}{% link _lessons/01-prop-logic/prop-logic.md %})
