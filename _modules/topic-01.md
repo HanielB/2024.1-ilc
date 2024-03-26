@@ -22,3 +22,8 @@ title: Tópico 01 - Lógica proposicional
 
 20 Mar
 : [**Resolução via SAT**]({{ site.baseurl }}{% link _lessons/01-prop-logic/prop-logic.md %})
+
+
+25, 27 Mar
+: [**Demonstrações e regras de inferência**]({{ site.baseurl }}{% link _lessons/02-proofs/proofs.md %})
+  : [Slides]({{ site.baseurl }}{% link _lessons/02-proofs/04-proofs.pdf %})
