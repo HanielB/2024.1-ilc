@@ -27,3 +27,7 @@ title: Tópico 01 - Lógica proposicional
 25, 27 Mar
 : [**Demonstrações e regras de inferência**]({{ site.baseurl }}{% link _lessons/02-proofs/proofs.md %})
   : [Slides]({{ site.baseurl }}{% link _lessons/02-proofs/04-proofs.pdf %})
+
+27 Mar, 01 Abr
+: [**Dedução Natural**]({{ site.baseurl }}{% link _lessons/02-proofs/proofs.md %})
+  : [Slides]({{ site.baseurl }}{% link _lessons/02-proofs/04-proofs-nd.pdf %})
