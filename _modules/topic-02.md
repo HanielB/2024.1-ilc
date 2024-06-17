@@ -1,5 +1,5 @@
 ---
-title: Tópico 02 - Lógica de Predicados
+title: Tópico 02 - Lógica de Predicados e Métodos de Demonstração
 ---
 
 ## {{ page.title }}
@@ -22,3 +22,4 @@ title: Tópico 02 - Lógica de Predicados
 
 17, 19 Jun
 : [**Métodos de demonstração**]({{ site.baseurl }}{% link _lessons/02-proofs/proofs.md %})
+  : [Slides]({{ site.baseurl }}{% link _lessons/02-proofs/06-proofs.pdf %})
