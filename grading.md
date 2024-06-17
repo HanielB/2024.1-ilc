@@ -10,8 +10,8 @@ description: Atividades avaliativas
 
 |                     | Value | When                 |
 |---------------------|-------|----------------------|
-| Prova 1             | 45    | 26/06                |
-| Prova 2             | 45    | 14/08                |
+| Prova 1             | 40    | 26/06                |
+| Prova 2             | 40    | 14/08                |
 |---------------------|-------|----------------------|
-| Listas de exercício | 10    | Ao longo do semestre |
+| Listas de exercício | 20    | Ao longo do semestre |
 |---------------------|-------|----------------------|
