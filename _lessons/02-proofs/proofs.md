@@ -18,6 +18,10 @@ title: Demonstrações
   - Introdução demonstrações: capítulo 1.6
   - Métodos de demonstração: capítulo 1.7
 
+- Estratégias de demonstrações em jogos:
+  - [Jogo Chomp]({{ site.baseurl }}{% link _lessons/02-proofs/06-proofs-appx_chomp.pdf %})
+  - [Xadrez e dominó]({{ site.baseurl }}{% link _lessons/02-proofs/06-proofs-appx_checkers.pdf %})
+
 ## Exercícios de dedução natural
 
 Considere proposições atômicas de lógica proposicional `p`, `q`, `r`, `s`. Utilazando dedução natural, demonstre:
